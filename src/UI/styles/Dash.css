@@ -1,0 +1,31 @@
+.paddingAll {
+    padding: 10px 10px;
+}
+
+.businessTitle {
+    font-weight: 500;
+    font-size: 24px;
+    color: #eceff1;
+}
+
+/* .priceSubTitle {
+    font-size: 14px;
+} */
+
+.contentStyle {
+    display: flex;
+    flex-direction: row;
+}
+
+.iconStyle {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.gradiendLight {
+    border-radius: 5px;
+    padding: 16px 0 0 16px;
+    background: #e9cabb;
+}
+
